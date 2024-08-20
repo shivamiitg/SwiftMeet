@@ -6,7 +6,7 @@ module.exports = {
         cookieKey: 'GMEET BRO'
     },
     credentials: {
-        email: 'dezylsolanki3@gmail.com',
-        password: 'nmjmsiokqrbutbru',
+        email: 'shivamnayak555@gmail.com',
+        password: 'k2cr2o7',
     }
 }
